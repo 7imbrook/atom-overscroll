@@ -1,6 +1,6 @@
 # overscroll package
 
-Allow the user to scroll below the content of his file (50 lines)
+Allow the user to scroll below the content of their file (50 lines)
 
 ## Getting Started
 
